@@ -1,0 +1,22 @@
+body{
+    margin: none;
+    background: lightgrey;
+
+}
+
+
+
+
+#popupreg{
+    display: none;
+    width: 400px;
+    height: 200px;  
+    align-content: center;
+    justify-content: center;
+    background: white;
+    border: solid black;
+    margin: 20px;
+    padding: 80px 40px;
+    position: absolute;
+}
+    
